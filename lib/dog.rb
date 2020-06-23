@@ -16,7 +16,6 @@ class Dog
     @breed 
   end   
   @breed == "Mutt"
-  end   
 end 
 
 #Additionally, `Dog#initialize` should accept a second optional argument for the
