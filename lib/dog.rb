@@ -20,8 +20,7 @@ class Dog
     @breed 
   end   
   
-  if @breed ==  
-    "Mutt"
-  end 
+  @breed ==  "Mutt"
+
 end 
 
